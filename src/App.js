@@ -1,12 +1,7 @@
-import React from "react";
+import React from 'react';
 
 function App() {
-
-  return (
-    <>
-      Advent Calendar
-    </>
-  );
+  return <>Advent Calendar</>;
 }
 
 export default App;
